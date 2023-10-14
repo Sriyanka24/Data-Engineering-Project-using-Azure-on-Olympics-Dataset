@@ -13,7 +13,6 @@ https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo/
 5.	Analyze the transformed data using Synapse Analytics 
 6.	Build Dashboards using Power BI, Tableau, or Looker studio
 
-
 ## Services Used
 1. Azure Data Factory
 2. Azure Data Lake storage Gen 2
@@ -21,3 +20,13 @@ https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo/
 4. Apache Spark
 5. Azure Synapse Analytics
 6. Power BI
+
+## Data Pipeline
+<img src="img/Data_pipeline.jpeg">
+
+## Visualizations
+### Ordering Countries based on Number of Athletes
+<img src="img/Countries-Number_Of_Athletes.jpeg">
+
+### Ordering Countries based on Number of Medals won
+<img src="img/Countries_Medals.jpeg">
