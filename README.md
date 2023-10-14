@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo/
 6. Power BI
 
 ## Data Pipeline
-<img src="img/Data_pipeline.jpeg">
+<img src="img/Data_pipeline.png">
 
 ## Visualizations
 ### Ordering Countries based on Number of Athletes
